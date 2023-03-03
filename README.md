@@ -12,4 +12,4 @@ The Reversi board game is a two-player strategy game played on a board with 64 s
 
 ## Screenshots
 
-<img src="https://github.com/Arash-san/Reversi-with-greedy-bot/blob/5e488d0d8022264842dcee1219334d3901bbdaf3/screenshot.jpg?raw=true" width="500">
+<img src="https://github.com/Arash-san/Reversi-with-greedy-bot/blob/main/screenshot.jpg?raw=true" width="700">
